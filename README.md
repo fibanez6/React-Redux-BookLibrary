@@ -2,7 +2,7 @@
 
 [React tutorial](https://www.udemy.com/react-redux/) to simulate Book Library app
 
-This project cover from section 3 of the tutorial.
+This project cover section 3 and 4 of the tutorial.
 
 ### IMPORTANT
 
