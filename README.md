@@ -1,6 +1,6 @@
-# React Redux Tinder
+# React Redux BookLibrary
 
-[React tutorial](https://www.udemy.com/react-redux/) to simulate Tinder app
+[React tutorial](https://www.udemy.com/react-redux/) to simulate Book Library app
 
 This project cover from section 3 of the tutorial.
 
@@ -10,8 +10,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 
 ### Installation
 ```
-> git clone https://github.com/fibanez6/React-Redux-Tinder.git
-> cd React-Redux-Tinder.git
+> git clone https://github.com/fibanez6/React-Redux-BookLibrary.git
+> cd React-Redux-BookLibrary.git
 > npm install
 > npm start
 ```
