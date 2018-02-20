@@ -10,8 +10,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 
 ### Installation
 ```
-> git clone https://github.com/fibanez6/React-Redux-BookLibrary.git
-> cd React-Redux-BookLibrary.git
+> git clone https://github.com/fibanez6/react-redux-bookLibrary.git
+> cd react-redux-bookLibrary.git
 > npm install
 > npm start
 ```
