@@ -15,3 +15,4 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 > npm install
 > npm start
 ```
+Go to http://localhost:8080/
